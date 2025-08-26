@@ -1,0 +1,2 @@
+This is the project I did for my undergradute Machine Learning course at Shanghai jiaotong university. Tennis is my hobby so doing the project was a great experience for me. 
+The repository contains 3 files: one is for feature engineering (extraction) from the original dataset to facilitate the ML model, one is the code for the ML algorithms I used on my featured dataset, the last one is my report on the whole project
